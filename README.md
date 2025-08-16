@@ -1,4 +1,4 @@
-# Full-stack LangGraph deep research with DeepSeek LLM and Tavily Search
+# DeepSeek Langgraph Research with Tavily Search
 
 This file provides guidance when working with code in this repository.
 
