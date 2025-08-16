@@ -1,4 +1,4 @@
-# readme.md
+# full-stack LangGraph deep research 
 
 This file provides guidance when working with code in this repository.
 
