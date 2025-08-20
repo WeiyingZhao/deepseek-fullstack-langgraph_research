@@ -8,6 +8,9 @@ This is a full-stack LangGraph research agent application consisting of a React 
 
 ## Architecture
 
+### Agent Processing Flow
+![Research Flow](research_flow.png)
+
 ### Full-Stack Structure
 - **Frontend**: React 19 + TypeScript + Vite with LangGraph SDK for real-time streaming
 - **Backend**: LangGraph-based agent with DeepSeek LLM and Tavily search integration
